@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/webhaider/static/css/main.cda4e388.chunk.css",
+    "main.js": "/webhaider/static/js/main.66cfc07b.chunk.js",
+    "main.js.map": "/webhaider/static/js/main.66cfc07b.chunk.js.map",
+    "runtime-main.js": "/webhaider/static/js/runtime-main.c2ff2352.js",
+    "runtime-main.js.map": "/webhaider/static/js/runtime-main.c2ff2352.js.map",
+    "static/js/2.96648170.chunk.js": "/webhaider/static/js/2.96648170.chunk.js",
+    "static/js/2.96648170.chunk.js.map": "/webhaider/static/js/2.96648170.chunk.js.map",
+    "static/js/3.d05603a8.chunk.js": "/webhaider/static/js/3.d05603a8.chunk.js",
+    "static/js/3.d05603a8.chunk.js.map": "/webhaider/static/js/3.d05603a8.chunk.js.map",
+    "index.html": "/webhaider/index.html",
+    "static/css/main.cda4e388.chunk.css.map": "/webhaider/static/css/main.cda4e388.chunk.css.map",
+    "static/js/2.96648170.chunk.js.LICENSE.txt": "/webhaider/static/js/2.96648170.chunk.js.LICENSE.txt",
+    "static/media/About.d971fd80.gif": "/webhaider/static/media/About.d971fd80.gif",
+    "static/media/CV_HAIDER_ALNKASH_2021.54cf925e.pdf": "/webhaider/static/media/CV_HAIDER_ALNKASH_2021.54cf925e.pdf",
+    "static/media/MY_LOGO.0ab81859.png": "/webhaider/static/media/MY_LOGO.0ab81859.png",
+    "static/media/index.css": "/webhaider/static/media/home-bg.14eacc1c.jpg",
+    "static/media/certigic.abb817ea.pdf": "/webhaider/static/media/certigic.abb817ea.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2ff2352.js",
+    "static/js/2.96648170.chunk.js",
+    "static/css/main.cda4e388.chunk.css",
+    "static/js/main.66cfc07b.chunk.js"
+  ]
+}
