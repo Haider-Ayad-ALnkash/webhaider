@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/webhaider/static/css/main.c5794682.chunk.css",
+    "main.css": "/webhaider/static/css/main.55fc0ebe.chunk.css",
     "main.js": "/webhaider/static/js/main.9c1a9a93.chunk.js",
     "main.js.map": "/webhaider/static/js/main.9c1a9a93.chunk.js.map",
     "runtime-main.js": "/webhaider/static/js/runtime-main.c2ff2352.js",
@@ -10,7 +10,7 @@
     "static/js/3.d05603a8.chunk.js": "/webhaider/static/js/3.d05603a8.chunk.js",
     "static/js/3.d05603a8.chunk.js.map": "/webhaider/static/js/3.d05603a8.chunk.js.map",
     "index.html": "/webhaider/index.html",
-    "static/css/main.c5794682.chunk.css.map": "/webhaider/static/css/main.c5794682.chunk.css.map",
+    "static/css/main.55fc0ebe.chunk.css.map": "/webhaider/static/css/main.55fc0ebe.chunk.css.map",
     "static/js/2.db0d02fe.chunk.js.LICENSE.txt": "/webhaider/static/js/2.db0d02fe.chunk.js.LICENSE.txt",
     "static/media/About.d971fd80.gif": "/webhaider/static/media/About.d971fd80.gif",
     "static/media/CV_HAIDER_ALNKASH_2021.54cf925e.pdf": "/webhaider/static/media/CV_HAIDER_ALNKASH_2021.54cf925e.pdf",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.c2ff2352.js",
     "static/js/2.db0d02fe.chunk.js",
-    "static/css/main.c5794682.chunk.css",
+    "static/css/main.55fc0ebe.chunk.css",
     "static/js/main.9c1a9a93.chunk.js"
   ]
 }
